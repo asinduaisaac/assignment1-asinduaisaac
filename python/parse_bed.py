@@ -8,10 +8,10 @@
   #[X] Exit
   
   #below is the logic for the program me
-  
+
 def get_chr_sort_key(chrom):
-    # turns "chr1", "chr10", "chrX" into something we can sort properly
-    # (plain text sorting would put chr10 before chr2, which is wrong)
+    # sorting normally messes up chr10, chr2 etc since it reads it like text
+    # so pull out the number and sort by that instead
     name = chrom.replace("chr", "")
     if name.isdigit():
         return (0, int(name))
@@ -58,7 +58,7 @@ while True:
     print("[X] Exit")
     option=input("Please select an option from the menu: ").upper()
     if option=="R":
-        # natural order first (chr1, chr2, chr3... chrX, chrY) - this is what the spec example shows
+        # sort in normal chr1, chr2, chr3 order like the example wants
         natural_order_chromosomes = sorted(counts, key=get_chr_sort_key)
         
         chr_heading="Chr "
@@ -74,9 +74,9 @@ while True:
         
         print(output)
         
-        # bonus: same counts, but ordered by read count, descending
+        # bonus part, same counts just sorted by highest count first
         sorted_chromosomes = sorted(counts,key=lambda chr:counts[chr], reverse=True)
-        bonus_output = "\nBonus - ordered by read count (descending):\n"
+        bonus_output = "\nBonus - sorted by count high to low:\n"
         for each_chromosome in sorted_chromosomes:
             bonus_output = bonus_output + f"{each_chromosome}    {str(counts[each_chromosome])}\n"
         
@@ -84,6 +84,7 @@ while True:
         
         
     elif option=="D":
+        # same sort fix here so it comes out in order
         natural_order_chromosomes = sorted(counts, key=get_chr_sort_key)
         
         output = ""
