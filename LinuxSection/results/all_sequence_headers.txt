@@ -1,0 +1,227 @@
+>BC.458081 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458082 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458083 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458084 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458085 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458086 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458087 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458088 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458089 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458090 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458091 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458092 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458093 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458094 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458095 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458096 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458097 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458098 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458099 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458100 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458101 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458102 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458103 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458104 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458105 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458106 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458107 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458108 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458109 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458110 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458111 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458112 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458113 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458114 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458115 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458116 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458117 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458118 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458119 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458120 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458121 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458122 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458123 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458124 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458125 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458126 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458127 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458128 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458129 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458130 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458131 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458132 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458133 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458134 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458135 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458136 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458137 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458138 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458139 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458140 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458141 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458142 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458143 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458144 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458145 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458146 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458147 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458148 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458149 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458150 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458151 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458152 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458153 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458154 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458155 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458156 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458157 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458158 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458159 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458160 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458161 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458162 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458163 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458164 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458165 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458166 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458167 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458168 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458169 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458170 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458171 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458172 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458173 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458174 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458175 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458176 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458177 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458178 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458179 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458180 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458181 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458182 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458183 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458184 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458185 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458186 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458187 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458188 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458189 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458190 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458191 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458192 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458193 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>BC.458194 | organism=Plasmodium_falciparum | description=pfal3D7_SNP_BroadIsolateBarcode_RSRC | length=24
+>Cel_GCH1
+>Dme_GCH1
+>Spu_GCH1
+>Cin_GCH1
+>Dre_GCH1
+>Xla_GCH1
+>Hsa_GCH1
+>Nve_GCH1
+>Tad_GCH1
+>NM_001361694.1 Mus musculus nuclear respiratory factor 1 (Nrf1), transcript variant 9, mRNA
+>NM_001361695.1 Mus musculus nuclear respiratory factor 1 (Nrf1), transcript variant 10, mRNA
+>NM_001164226.1 Mus musculus nuclear respiratory factor 1 (Nrf1), transcript variant 1, mRNA
+>NM_010938.4 Mus musculus nuclear respiratory factor 1 (Nrf1), transcript variant 6, mRNA
+>AK082580.1 Mus musculus 0 day neonate cerebellum cDNA, RIKEN full-length enriched library, clone:C230066G05 product:nuclear respiratory factor 1, full insert sequence
+>XM_021165121.1 PREDICTED: Mus caroli nuclear respiratory factor 1 (Nrf1), transcript variant X5, mRNA
+>XM_021165122.1 PREDICTED: Mus caroli nuclear respiratory factor 1 (Nrf1), transcript variant X6, mRNA
+>AK029034.1 Mus musculus 10 days neonate skin cDNA, RIKEN full-length enriched library, clone:4732483G17 product:nuclear respiratory factor 1, full insert sequence
+>AK014494.1 Mus musculus 14 days embryo liver cDNA, RIKEN full-length enriched library, clone:4432414E03 product:nuclear respiratory factor 1, full insert sequence
+>NM_001361693.1 Mus musculus nuclear respiratory factor 1 (Nrf1), transcript variant 8, mRNA
+>NM_001361692.1 Mus musculus nuclear respiratory factor 1 (Nrf1), transcript variant 7, mRNA
+>XM_011241048.1 PREDICTED: Mus musculus nuclear respiratory factor 1 (Nrf1), transcript variant X8, mRNA
+>AK031103.1 Mus musculus 13 days embryo forelimb cDNA, RIKEN full-length enriched library, clone:5930405C14 product:nuclear respiratory factor 1, full insert sequence
+>XM_021189475.1 PREDICTED: Mus pahari nuclear respiratory factor 1 (Nrf1), transcript variant X3, mRNA
+>XM_006236198.3 PREDICTED: Rattus norvegicus nuclear respiratory factor 1 (Nrf1), transcript variant X5, mRNA
+>XM_006979405.2 PREDICTED: Peromyscus maniculatus bairdii nuclear respiratory factor 1 (Nrf1), transcript variant X5, mRNA
+>AF098077.1 Mus musculus nuclear respiratory factor-1 (Nrf1) mRNA, complete cds
+>AC161538.7 Mus musculus 6 BAC RP23-1D15 (Roswell Park Cancer Institute (C57BL/6J Female) Mouse BAC Library) complete sequence
+>AC153632.2 Mus musculus 6 BAC RP23-450O1 (Roswell Park Cancer Institute (C57BL/6J Female) Mouse BAC Library) complete sequence
+>XM_017321440.1 PREDICTED: Mus musculus nuclear respiratory factor 1 (Nrf1), transcript variant X4, mRNA
+>XM_021189492.1 PREDICTED: Mus pahari nuclear respiratory factor 1 (Nrf1), transcript variant X6, mRNA
+>XM_007613569.2 PREDICTED: Cricetulus griseus nuclear respiratory factor 1 (Nrf1), transcript variant X4, mRNA
+>XM_005078088.3 PREDICTED: Mesocricetus auratus nuclear respiratory factor 1 (Nrf1), transcript variant X2, mRNA
+>XM_008762773.2 PREDICTED: Rattus norvegicus nuclear respiratory factor 1 (Nrf1), transcript variant X4, mRNA
+>XM_008846354.2 PREDICTED: Nannospalax galili nuclear respiratory factor 1 (Nrf1), transcript variant X5, mRNA
+>XM_008846355.2 PREDICTED: Nannospalax galili nuclear respiratory factor 1 (Nrf1), transcript variant X6, mRNA
+>XM_015998079.1 PREDICTED: Peromyscus maniculatus bairdii nuclear respiratory factor 1 (Nrf1), transcript variant X3, mRNA
+>XM_011241046.2 PREDICTED: Mus musculus nuclear respiratory factor 1 (Nrf1), transcript variant X3, mRNA
+>XM_007613561.2 PREDICTED: Cricetulus griseus nuclear respiratory factor 1 (Nrf1), transcript variant X3, mRNA
+>XM_020160204.1 PREDICTED: Castor canadensis nuclear respiratory factor 1 (Nrf1), transcript variant X6, mRNA
+>XM_015493834.1 PREDICTED: Marmota marmota marmota nuclear respiratory factor 1 (Nrf1), transcript variant X1, mRNA
+>XM_005365768.2 PREDICTED: Microtus ochrogaster nuclear respiratory factor 1 (Nrf1), transcript variant X4, mRNA
+>XM_021730384.1 PREDICTED: Ictidomys tridecemlineatus nuclear respiratory factor 1 (Nrf1), transcript variant X1, mRNA
+>XM_021237648.1 PREDICTED: Heterocephalus glaber nuclear respiratory factor 1 (Nrf1), transcript variant X3, mRNA
+>XM_021237647.1 PREDICTED: Heterocephalus glaber nuclear respiratory factor 1 (Nrf1), transcript variant X2, mRNA
+>XM_021237646.1 PREDICTED: Heterocephalus glaber nuclear respiratory factor 1 (Nrf1), transcript variant X1, mRNA
+>JN949313.1 Mus musculus targeted non-conditional, lacZ-tagged mutant allele Nrf1:tm1e(KOMP)Wtsi; transgenic
+>JN945378.1 Mus musculus targeted KO-first, conditional ready, lacZ-tagged mutant allele Nrf1:tm1a(KOMP)Wtsi; transgenic
+>XM_021730387.1 PREDICTED: Ictidomys tridecemlineatus nuclear respiratory factor 1 (Nrf1), transcript variant X4, mRNA
+>XM_013503283.1 PREDICTED: Chinchilla lanigera nuclear respiratory factor 1 (Nrf1), transcript variant X9, mRNA
+>XM_013503282.1 PREDICTED: Chinchilla lanigera nuclear respiratory factor 1 (Nrf1), transcript variant X8, mRNA
+>XM_013503281.1 PREDICTED: Chinchilla lanigera nuclear respiratory factor 1 (Nrf1), transcript variant X7, mRNA
+>XM_013503280.1 PREDICTED: Chinchilla lanigera nuclear respiratory factor 1 (Nrf1), transcript variant X6, mRNA
+>XM_005402417.2 PREDICTED: Chinchilla lanigera nuclear respiratory factor 1 (Nrf1), transcript variant X4, mRNA
+>XM_014854351.1 PREDICTED: Equus asinus nuclear respiratory factor 1 (NRF1), transcript variant X1, mRNA
+>XM_001502901.6 PREDICTED: Equus caballus nuclear respiratory factor 1 (NRF1), transcript variant X2, mRNA
+>XM_008512637.1 PREDICTED: Equus przewalskii nuclear respiratory factor 1 (NRF1), mRNA
+>XM_012789202.2 PREDICTED: Microcebus murinus nuclear respiratory factor 1 (NRF1), transcript variant X7, mRNA
+>XM_008574446.1 PREDICTED: Galeopterus variegatus nuclear respiratory factor 1 (NRF1), mRNA
+>XM_014784894.1 PREDICTED: Ceratotherium simum simum nuclear respiratory factor 1 (LOC101391114), transcript variant X2, mRNA
+>XM_012088037.1 PREDICTED: Cercocebus atys nuclear respiratory factor 1 (NRF1), transcript variant X3, mRNA
+>XM_021730385.1 PREDICTED: Ictidomys tridecemlineatus nuclear respiratory factor 1 (Nrf1), transcript variant X2, mRNA
+>XM_015493835.1 PREDICTED: Marmota marmota marmota nuclear respiratory factor 1 (Nrf1), transcript variant X2, mRNA
+>XM_015448031.1 PREDICTED: Macaca fascicularis nuclear respiratory factor 1 (NRF1), transcript variant X4, mRNA
+>XM_015134910.1 PREDICTED: Macaca mulatta nuclear respiratory factor 1 (NRF1), transcript variant X2, mRNA
+>XM_012088036.1 PREDICTED: Cercocebus atys nuclear respiratory factor 1 (NRF1), transcript variant X2, mRNA
+>XM_007982896.1 PREDICTED: Chlorocebus sabaeus nuclear respiratory factor 1 (NRF1), transcript variant X7, mRNA
+>XM_007982895.1 PREDICTED: Chlorocebus sabaeus nuclear respiratory factor 1 (NRF1), transcript variant X6, mRNA
+>XM_012088042.1 PREDICTED: Cercocebus atys nuclear respiratory factor 1 (NRF1), transcript variant X7, mRNA
+>XM_012088038.1 PREDICTED: Cercocebus atys nuclear respiratory factor 1 (NRF1), transcript variant X4, mRNA
+>XM_024789577.1 PREDICTED: Macaca nemestrina nuclear respiratory factor 1 (NRF1), transcript variant X11, mRNA
+>XM_021730386.1 PREDICTED: Ictidomys tridecemlineatus nuclear respiratory factor 1 (Nrf1), transcript variant X3, mRNA
+>XM_012088041.1 PREDICTED: Cercocebus atys nuclear respiratory factor 1 (NRF1), transcript variant X6, mRNA
+>XM_012088039.1 PREDICTED: Cercocebus atys nuclear respiratory factor 1 (NRF1), transcript variant X5, mRNA
+>XM_017532570.1 PREDICTED: Cebus capucinus imitator nuclear respiratory factor 1 (NRF1), transcript variant X1, mRNA
+>XM_005550753.2 PREDICTED: Macaca fascicularis nuclear respiratory factor 1 (NRF1), transcript variant X5, mRNA
+>XM_015134909.1 PREDICTED: Macaca mulatta nuclear respiratory factor 1 (NRF1), transcript variant X1, mRNA
+>XM_011723889.1 PREDICTED: Macaca nemestrina nuclear respiratory factor 1 (NRF1), transcript variant X12, mRNA
+>XM_011939585.1 PREDICTED: Colobus angolensis palliatus nuclear respiratory factor 1 (NRF1), transcript variant X2, mRNA
+>XM_015134911.1 PREDICTED: Macaca mulatta nuclear respiratory factor 1 (NRF1), transcript variant X3, mRNA
+>XM_011723890.1 PREDICTED: Macaca nemestrina nuclear respiratory factor 1 (NRF1), transcript variant X13, mRNA
+>XM_011995878.1 PREDICTED: Mandrillus leucophaeus nuclear respiratory factor 1 (NRF1), transcript variant X2, mRNA
+>XM_015134912.1 PREDICTED: Macaca mulatta nuclear respiratory factor 1 (NRF1), transcript variant X4, mRNA
+>XM_003803318.3 PREDICTED: Otolemur garnettii nuclear respiratory factor 1 (NRF1), mRNA
+>NM_001164227.1 Mus musculus nuclear respiratory factor 1 (Nrf1), transcript variant 2, mRNA
+>AK037697.1 Mus musculus 16 days neonate thymus cDNA, RIKEN full-length enriched library, clone:A130038J21 product:SIMILAR TO NUCLEAR RESPIRATORY FACTOR 1 homolog [Mus musculus], full insert sequence
+>XM_016958154.2 PREDICTED: Pan troglodytes nuclear respiratory factor 1 (NRF1), transcript variant X7, mRNA
+>XM_021936263.1 PREDICTED: Papio anubis nuclear respiratory factor 1 (NRF1), transcript variant X10, mRNA
+>XM_003813488.3 PREDICTED: Pan paniscus nuclear respiratory factor 1 (NRF1), transcript variant X4, mRNA
+>XM_003896587.4 PREDICTED: Papio anubis nuclear respiratory factor 1 (NRF1), transcript variant X11, mRNA
+>XM_003951129.3 PREDICTED: Pan troglodytes nuclear respiratory factor 1 (NRF1), transcript variant X9, mRNA
+>XM_001155756.5 PREDICTED: Pan troglodytes nuclear respiratory factor 1 (NRF1), transcript variant X8, mRNA
+>XM_017957164.2 PREDICTED: Papio anubis nuclear respiratory factor 1 (NRF1), transcript variant X12, mRNA
+>XM_021673680.1 PREDICTED: Aotus nancymaae nuclear respiratory factor 1 (NRF1), transcript variant X1, mRNA
+>XM_010378768.1 PREDICTED: Rhinopithecus roxellana nuclear respiratory factor 1 (NRF1), transcript variant X1, mRNA
+>XM_010378771.1 PREDICTED: Rhinopithecus roxellana nuclear respiratory factor 1 (NRF1), transcript variant X4, mRNA
+>XM_017321441.1 PREDICTED: Mus musculus nuclear respiratory factor 1 (Nrf1), transcript variant X6, mRNA
+>XM_021673683.1 PREDICTED: Aotus nancymaae nuclear respiratory factor 1 (NRF1), transcript variant X2, mRNA
+>XM_010378770.1 PREDICTED: Rhinopithecus roxellana nuclear respiratory factor 1 (NRF1), transcript variant X3, mRNA
+>XM_010378769.1 PREDICTED: Rhinopithecus roxellana nuclear respiratory factor 1 (NRF1), transcript variant X2, mRNA
+>NM_001164230.1 Mus musculus nuclear respiratory factor 1 (Nrf1), transcript variant 5, mRNA
+>XM_024250195.1 PREDICTED: Pongo abelii nuclear respiratory factor 1 (NRF1), transcript variant X1, mRNA
+>XM_006505006.3 PREDICTED: Mus musculus nuclear respiratory factor 1 (Nrf1), transcript variant X5, mRNA
+>XM_010378772.1 PREDICTED: Rhinopithecus roxellana nuclear respiratory factor 1 (NRF1), transcript variant X5, mRNA
+>XM_024250197.1 PREDICTED: Pongo abelii nuclear respiratory factor 1 (NRF1), transcript variant X3, mRNA
+>XM_024250196.1 PREDICTED: Pongo abelii nuclear respiratory factor 1 (NRF1), transcript variant X2, mRNA
+>L22454.1 Homo sapiens nuclear respiratory factor-1 (NRF-1) mRNA, complete cds
+>AK134483.1 Mus musculus 11 days embryo head cDNA, RIKEN full-length enriched library, clone:6230412K09 product:nuclear respiratory factor 1, full insert sequence
+>U02683.1 Homo sapiens alpha palindromic binding protein mRNA, complete cds
+>NM_001040110.1 Homo sapiens nuclear respiratory factor 1 (NRF1), transcript variant 2, mRNA
+>derice
+>sanka
+>junior
+>yul
